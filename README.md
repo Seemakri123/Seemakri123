@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seema Kumari</h1>
-<h3 align="center">A pre-final year student at Bengal College of Engineering and Technology pursuing B.Tech in Computer Science and Engineering having keen interest in development.</h3>
+<h3 align="center">A final year student at Bengal College of Engineering and Technology pursuing B.Tech in Computer Science and Engineering having keen interest in development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemakri123&label=Profile%20views&color=0e75b6&style=flat" alt="seemakri123" /> </p>
 
