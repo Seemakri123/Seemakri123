@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemakri123&label=Profile%20views&color=0e75b6&style=flat" alt="seemakri123" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
-
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **Hibernate and Spring**
 
 - 📫 How to reach me **seema.kri870@gmail.com**
 
