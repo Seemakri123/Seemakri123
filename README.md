@@ -1,7 +1,7 @@
 <!-- Profile Header Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Seemakri123/Seemakri123/blob/main/banner.png" alt="Seema Kumari - Java Full Stack Developer" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Seema Kumari</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Passionate Coder | Problem Solver</h3>
