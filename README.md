@@ -1,7 +1,10 @@
 <!-- Profile Header Image -->
-<!-- <p align="center">
-  <img src="https://github.com/Seemakri123/Seemakri123/blob/main/banner.png" alt="Seema Kumari - Java Full Stack Developer" width="100%">
-</p> -->
+<!--
+<p align="center">
+  <img src="https://github.com/Seemakri123/Seemakri123/blob/main/banner.png"
+       alt="Seema Kumari - Java Full Stack Developer" width="100%">
+</p>
+-->
 
 <h1 align="center">Hi 👋, I'm Seema Kumari</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Passionate Coder | Problem Solver</h3>
@@ -9,11 +12,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently improving my **DSA skills on LeetCode** and building **Full Stack Projects**
+- 🌱 Currently improving my **DSA skills on LeetCode** and building **Full-Stack Projects**
 - 💻 Skilled in **HTML, CSS, JavaScript, Java, C++, Oracle, MySQL, JDBC, Servlet, Hibernate, Spring Core**
-- ⚡ Love solving coding challenges and learning new technologies  
+- ⚡ Love solving coding challenges and learning new technologies
 - 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
-- 🎯 Goal: To become a **Software Engineer** in a top tech company
+- 🎯 Goal: To become a **Software Engineer** at a top tech company
 - 📫 Reach me at **[seema.kri870@gmail.com](mailto:seema.kri870@gmail.com)**
 
 ---
@@ -30,47 +33,53 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,hibernate" />
 </p>
 
-#### 🧠 Others
+#### 🧠 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 📊 GitHub Stats  
+---
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seemakri123&show_icons=true&theme=radical&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&hide_border=true" alt="Seema's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seemakri123&theme=radical&background=0d1117&ring=50fa7b&fire=ff79c6&currStreakLabel=ffb86c&hide_border=true" alt="Seema's GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Seemakri123&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seemakri123&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🌈 Contribution Graph  
-
+### 🌈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seemakri123&bg_color=0d1117&color=a855f7&line=6366f1&point=f472b6&area=true&hide_border=true" alt="Seema's contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seemakri123&bg_color=0d1117&color=a855f7&line=6366f1&point=f472b6&area=true&hide_border=true"/>
 </p>
 
-### 📊 LeetCode Stats  
+---
 
+### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/seemakri_?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" alt="Seema's LeetCode Stats" width="48%"/>
-  <img src="https://leetcard.jacoblin.cool/seemakri_?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=8" alt="Seema's LeetCode Contribution Graph" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/seemakri_?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/seemakri_?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=8" width="48%"/>
 </p>
-
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/seema-kumari-48b66623b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://leetcode.com/u/seemakri_/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40"/></a>
-  <a href="mailto:seema.kri870@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/seema-kumari-48b66623b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/seemakri_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:seema.kri870@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Java+Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Frontend+Developer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
