@@ -39,15 +39,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seemakri123&show_icons=true&theme=radical&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&hide_border=true" 
-       alt="Seema Kumari's GitHub stats" width="48%"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seemakri123&theme=radical&background=0d1117&ring=50fa7b&fire=ff79c6&currStreakLabel=ffb86c&hide_border=true" 
-       alt="Seema Kumari's GitHub streak" width="48%"/>
-</p>
-
----
 
 ### 🌈 Contribution Graph
 <p align="center">
